@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/oq_utils" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
