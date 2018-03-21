@@ -33,7 +33,10 @@ from PyQt5.QtCore import QSettings, QTranslator, qVersion, QCoreApplication
 
 
 class OqUtils:
-    """QGIS Plugin Implementation."""
+    """
+    This plugin does not have its own GUI. It only serves the purpose to
+    provide utilities that can be imported and used by other plugins.
+    """
 
     def __init__(self, iface):
         """Constructor.
